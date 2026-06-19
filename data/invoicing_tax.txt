@@ -1,0 +1,36 @@
+Invoicing, Receipts, and Tax Documentation
+
+Accessing Past Invoices
+All past invoices are available at Account Settings > Billing > Invoice
+History, downloadable as PDF. Invoices are generated automatically on each
+billing date and emailed to the billing contact on file at the same time.
+
+Adding Tax Information (VAT/GST/Tax ID)
+You can add your VAT number, GST number, or tax ID under Account Settings >
+Billing > Tax Information. This information appears on all future invoices
+but cannot be retroactively applied to invoices already issued - if you
+need a corrected past invoice with tax information added, contact billing
+support directly with the specific invoice number.
+
+Sales Tax and VAT Charges
+Whether tax is charged on your subscription depends on your billing
+location and applicable tax law. For EU customers, VAT is charged unless a
+valid VAT number is provided (reverse charge mechanism applies for B2B EU
+transactions outside our home country). For US customers, sales tax is
+charged based on state-level nexus rules, which vary by state.
+
+Requesting a Different Billing Contact or Address
+The billing contact email and address can be updated at any time under
+Account Settings > Billing > Billing Details. Changes apply to all future
+invoices; past invoices are not regenerated with the new details.
+
+Custom Invoicing (Purchase Orders, Net-30 Terms)
+Enterprise customers can request custom invoicing arrangements, including
+purchase order numbers on invoices or Net-30/Net-60 payment terms instead
+of automatic card billing. These arrangements must be set up by your
+account manager and are not available through self-serve billing settings.
+
+Refund Documentation
+When a refund is issued, a separate credit note is generated and emailed
+alongside the original invoice reference. Credit notes are also available
+in Invoice History for your accounting records.

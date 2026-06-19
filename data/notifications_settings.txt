@@ -1,0 +1,40 @@
+Notification Settings and Email Preferences
+
+Types of Notifications
+- Transactional emails (password resets, billing receipts, security
+  alerts): cannot be disabled, as they're required for account security and
+  legal compliance.
+- Product notifications (new comments, status changes, mentions): fully
+  configurable per notification type.
+- Marketing emails (product updates, newsletters, promotions): can be
+  unsubscribed from at any time via the link at the bottom of any marketing
+  email, or from Account Settings > Notifications > Marketing Preferences.
+
+Configuring Notification Channels
+For each product notification type, you can independently choose to
+receive it via email, in-app notification, push notification (mobile), or
+any combination of the three, under Account Settings > Notifications >
+Channels.
+
+Digest Mode
+If you find individual notifications overwhelming, enable Digest Mode
+(Account Settings > Notifications > Digest Mode) to receive a single
+summary email every morning instead of individual real-time emails. Digest
+Mode does not apply to urgent/security notifications, which always send
+immediately regardless of this setting.
+
+Notification Delays or Missing Notifications
+If you're not receiving expected notifications:
+1. Confirm the notification type is enabled in Account Settings >
+   Notifications > Channels.
+2. Check spam/junk folders for emails from notifications@example.com.
+3. For push notifications specifically, see the Mobile App Troubleshooting
+   guide for OS-level settings that commonly block delivery.
+4. Confirm you haven't muted the specific record/thread the notification
+   would relate to (muted items show a small bell-with-slash icon).
+
+Team-Wide Notification Defaults (Admin Only)
+Admins can set default notification preferences for new team members under
+Dashboard > Team > Notification Defaults. This only affects new members
+going forward and does not retroactively change existing members' personal
+preferences.

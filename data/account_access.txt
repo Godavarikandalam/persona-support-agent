@@ -1,0 +1,35 @@
+Account Access and Login Troubleshooting
+
+Two-Factor Authentication (2FA) Lockout
+If you are locked out due to a lost 2FA device, use one of your 10 backup
+codes generated when you first enabled 2FA (Account Settings > Security >
+Backup Codes). If you have lost both your device and your backup codes,
+account recovery requires identity verification and must be handled by a
+human support agent for security reasons - this cannot be resolved
+automatically.
+
+"Account Temporarily Locked" Message
+After 5 consecutive failed login attempts, accounts are locked for 30
+minutes as a brute-force protection measure. You can wait for the lockout
+to expire, or use the "Forgot Password" flow to reset your password
+immediately, which also clears the lockout.
+
+Email Verification Not Received
+Verification emails can take up to 10 minutes to arrive. If it does not
+arrive, check your spam/junk folder for emails from noreply@example.com,
+and confirm your email provider is not blocking our sending domain. You can
+request a new verification email from the login screen by clicking
+"Resend verification email" (limited to one resend every 5 minutes).
+
+Single Sign-On (SSO) Errors
+Enterprise plan customers using SAML-based SSO who see an "SSO
+configuration error" should verify that the Entity ID and ACS URL in their
+identity provider match exactly what is shown in Dashboard > Settings > SSO
+Configuration. Mismatched URLs are the most common cause of SSO login
+failures.
+
+Session Expiration
+Sessions expire after 14 days of inactivity, or immediately if you change
+your password. If you are unexpectedly logged out across all devices, this
+is expected behavior after a password change and is a security feature, not
+a bug.

@@ -1,0 +1,44 @@
+Mobile App Troubleshooting
+
+App Crashes on Launch
+If the app crashes immediately on opening, first confirm you're running the
+latest version from the App Store or Google Play - we release bug fixes
+roughly every two weeks. If you're already on the latest version, try
+clearing the app cache (Android: Settings > Apps > [App Name] > Storage >
+Clear Cache) or reinstalling (iOS does not support cache-clearing without a
+full reinstall).
+
+Push Notifications Not Arriving
+Push notifications can fail to arrive for several reasons:
+1. Notifications are disabled at the OS level (check Settings > Notifications
+   on your device).
+2. Battery optimization settings on Android are aggressively killing the
+   app's background process - disable "battery optimization" specifically
+   for our app in Android Settings > Battery.
+3. You are logged into a different account on this device than the one
+   notifications are configured for.
+4. Do Not Disturb or Focus Mode is active and blocking the notification.
+
+Sync Issues Between Mobile and Web
+Changes made on the mobile app typically sync to the web dashboard within
+10-15 seconds when you have an active internet connection. If changes
+aren't appearing on the other platform:
+- Pull down to refresh on mobile, or refresh the browser tab on web.
+- Confirm both devices are logged into the same account (not a secondary
+  team member account).
+- Check for a "Sync paused" banner, which appears when the app has been in
+  airplane mode or offline for an extended period.
+
+Biometric Login (Face ID / Fingerprint) Not Working
+Biometric login must be re-enabled after any password change for security
+reasons. Go to App Settings > Security > Enable Biometric Login to turn it
+back on. If your device's biometric data was reset at the OS level (e.g.
+after adding a new fingerprint), you may need to disable and re-enable this
+setting in the app.
+
+Offline Mode Limitations
+The mobile app supports limited offline functionality: you can view
+previously loaded data, but cannot create new records or submit forms while
+offline. Any draft changes made offline are saved locally and will attempt
+to sync automatically once connectivity is restored, but drafts older than
+24 hours are discarded for data consistency reasons.

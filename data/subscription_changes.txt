@@ -1,0 +1,42 @@
+Upgrading, Downgrading, and Switching Plans
+
+Upgrading Your Plan
+Upgrades take effect immediately upon confirmation at Account Settings >
+Billing > Change Plan. You are charged a prorated amount for the remainder
+of your current billing cycle at the new plan's rate, calculated to the day.
+All features of the new plan become available immediately - there is no
+waiting period.
+
+Downgrading Your Plan
+Downgrades take effect at the start of your next billing cycle, not
+immediately, so you retain access to your current plan's features until
+then. If your current usage exceeds the limits of the plan you're
+downgrading to (for example, you have more team seats than the lower plan
+allows), you'll be prompted to first remove the excess usage before the
+downgrade can be scheduled.
+
+Switching Between Monthly and Annual Billing
+Switching from monthly to annual billing applies the annual discount (15%)
+starting from your next renewal date and requires no immediate action - the
+new annual invoice is generated automatically. Switching from annual back to
+monthly is only possible at the end of your current annual term; mid-term
+switches to monthly billing are not supported.
+
+Seat-Based Pricing and Adding Team Members
+Professional and Enterprise plans are billed per active seat. Adding a new
+team member immediately adds a prorated charge for that seat for the
+remainder of the billing cycle. Removing a team member does not generate an
+immediate refund for that seat, but reduces the seat count (and therefore
+the charge) starting the following billing cycle.
+
+Trial Period Conversions
+Free trials last 14 days and automatically convert to a paid Professional
+plan subscription at the end of the trial unless canceled beforehand from
+Account Settings > Billing > Cancel Trial. We send reminder emails 3 days
+and 1 day before the trial ends.
+
+Multiple Workspaces Under One Billing Account
+Enterprise customers can manage multiple workspaces under a single
+consolidated invoice. New workspaces can be added at Dashboard > Organization
+> Workspaces > Add Workspace, and each workspace's seat usage is billed
+separately within the consolidated invoice for easier cost tracking.

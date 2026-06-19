@@ -1,0 +1,39 @@
+Billing Policy and Payment FAQ
+
+Subscription Plans
+We offer three subscription tiers: Starter ($9/month), Professional ($29/month),
+and Enterprise (custom pricing). All plans are billed monthly in advance on the
+date you originally subscribed. Annual billing is available for a 15% discount
+on Professional and Enterprise plans.
+
+Failed Payments
+If a payment fails, we will automatically retry the charge three times over
+seven days. You will receive an email notification after each failed attempt.
+If all three retries fail, your account will be downgraded to the free tier
+until a valid payment method is added.
+
+Duplicate Charges
+Duplicate charges typically occur when a payment is retried by your bank or
+when a subscription change (upgrade/downgrade) overlaps with a billing cycle.
+If you notice a duplicate charge, it is automatically detected by our billing
+system within 24-48 hours and refunded without needing to contact support.
+If it has been longer than 48 hours, please open a support ticket with your
+invoice number so our billing team can investigate manually.
+
+Refund Policy
+Refunds are issued on a case-by-case basis within 14 days of the original
+charge. Annual plans are eligible for a prorated refund if canceled within
+the first 30 days. Refund requests are reviewed by our billing team and are
+not processed automatically by the support agent due to compliance
+requirements - these requests should always be escalated to a human agent.
+
+Cancelling Your Subscription
+You can cancel anytime from Account Settings > Billing > Cancel Subscription.
+Your access continues until the end of the current billing period. We do not
+offer partial-month refunds for mid-cycle cancellations on monthly plans.
+
+Updating Payment Methods
+Navigate to Account Settings > Billing > Payment Methods to add or update a
+card. We accept Visa, Mastercard, American Express, and PayPal. We do not
+store full card numbers; payment data is handled entirely by our PCI-compliant
+payment processor.

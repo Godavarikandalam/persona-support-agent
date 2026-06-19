@@ -1,0 +1,40 @@
+Team Roles, Permissions, and Access Management
+
+Available Roles
+- Owner: full access including billing, account deletion, and the ability
+  to transfer ownership. Only one Owner per account.
+- Admin: full access to settings and team management, but cannot delete
+  the account or change billing details.
+- Member: standard access to core features, no access to billing or team
+  management settings.
+- Viewer: read-only access, cannot create or edit records.
+
+Changing a Team Member's Role
+Only Owners and Admins can change roles, via Dashboard > Team > [Member
+Name] > Change Role. Role changes take effect immediately and do not
+require the affected member to log out and back in.
+
+Removing a Team Member
+Removing a team member immediately revokes their access and ends any
+active sessions they have. Their historical activity (comments, created
+records) remains in the account and is attributed to their name, but they
+can no longer log in. Seat-based billing adjusts starting the next cycle as
+described in the subscription changes guide.
+
+Transferring Account Ownership
+Ownership transfer requires the current Owner to initiate the transfer
+(Dashboard > Team > Transfer Ownership) and the new Owner to accept an
+emailed confirmation link within 7 days. This is a sensitive, irreversible
+action and our support team cannot initiate or approve a transfer on your
+behalf without going through this verification flow.
+
+Custom Permission Sets (Enterprise Only)
+Enterprise accounts can create custom permission sets beyond the four
+standard roles, allowing fine-grained control (e.g. "can edit records but
+not delete them," or "can view billing but not modify it"). These are
+configured under Dashboard > Team > Custom Roles.
+
+Audit Log
+All permission and role changes are recorded in the audit log (Dashboard >
+Security > Audit Log), available on Professional and Enterprise plans,
+showing who made the change, when, and what the previous value was.
